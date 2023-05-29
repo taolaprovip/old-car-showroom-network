@@ -1,0 +1,14 @@
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\bin\Debug\net6.0\BOs.deps.json
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\bin\Debug\net6.0\BOs.runtimeconfig.json
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\bin\Debug\net6.0\BOs.dll
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\bin\Debug\net6.0\BOs.pdb
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.csproj.AssemblyReference.cache
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.AssemblyInfoInputs.cache
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.AssemblyInfo.cs
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.csproj.CoreCompileInputs.cache
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.dll
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\refint\BOs.dll
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.pdb
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.genruntimeconfig.cache
+D:\FPT_Edu\ki8\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\ref\BOs.dll
