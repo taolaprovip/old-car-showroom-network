@@ -1,0 +1,17 @@
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\REPOs.deps.json
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\REPOs.dll
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\REPOs.pdb
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\BOs.dll
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\DAOs.dll
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\DAOs.pdb
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\BOs.pdb
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.csproj.AssemblyReference.cache
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.AssemblyInfoInputs.cache
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.AssemblyInfo.cs
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.csproj.CoreCompileInputs.cache
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.csproj.CopyComplete
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.dll
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\refint\REPOs.dll
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.pdb
+D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\ref\REPOs.dll
