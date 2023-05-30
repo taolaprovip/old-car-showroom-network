@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yoORNzPF03TqlieDPJHv9+gZIVXOck4MaUP1OCaXLU4eic0ZKb+PinVwfZ0cNzVkY4veaLCqm0V2L5q4N3cyAQ==",
+  "dgSpecHash": "6WIVNZJeLDRBKEbJCMyggCRriQYOnopFKxJinhIDeQxnR3qllq0/kfFIJeKwujuUhJ/UNJ1MolcWchT6KVXJhg==",
   "success": true,
-  "projectFilePath": "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\OldCarShowroomNetworkRazorPage\\OldCarShowroomNetworkRazorPage.csproj",
+  "projectFilePath": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\OldCarShowroomNetworkRazorPage\\OldCarShowroomNetworkRazorPage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2uang\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\2uang\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -9,65 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OldCarShowroomNetworkRazorPage
 build_property.RootNamespace = OldCarShowroomNetworkRazorPage
-build_property.ProjectDir = D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\OldCarShowroomNetworkRazorPage\
+build_property.ProjectDir = D:\FPT_Edu\ki8\swp\New folder (2)\old-car-showroom-network\OldCarShowroomNetWork\OldCarShowroomNetworkRazorPage\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\OldCarShowroomNetworkRazorPage
+build_property.MSBuildProjectDirectory = D:\FPT_Edu\ki8\swp\New folder (2)\old-car-showroom-network\OldCarShowroomNetWork\OldCarShowroomNetworkRazorPage
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Error.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Index.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Login.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Privacy.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Register.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Users/Create.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Showroom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvd3Jvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Users/Delete.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Users/Details.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Users/Edit.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Users/Index.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/_ViewImports.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/_ViewStart.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT_Edu/ki8/swp/New folder/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Shared/_Layout.cshtml]
+[D:/FPT_Edu/ki8/swp/New folder (2)/old-car-showroom-network/OldCarShowroomNetWork/OldCarShowroomNetworkRazorPage/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vd077i1k8k

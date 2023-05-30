@@ -6189,11 +6189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\DAOs\\DAOs.csproj",
+      "projectUniqueName": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\DAOs\\DAOs.csproj",
       "projectName": "DAOs",
-      "projectPath": "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\DAOs\\DAOs.csproj",
+      "projectPath": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\DAOs\\DAOs.csproj",
       "packagesPath": "C:\\Users\\2uang\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\DAOs\\obj\\",
+      "outputPath": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\DAOs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6214,8 +6214,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\BOs\\BOs.csproj": {
-              "projectPath": "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\BOs\\BOs.csproj"
+            "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\BOs\\BOs.csproj": {
+              "projectPath": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\BOs\\BOs.csproj"
             }
           }
         }
