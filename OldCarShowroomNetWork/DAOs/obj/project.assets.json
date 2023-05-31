@@ -6183,23 +6183,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\2uang\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\DAOs\\DAOs.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Học\\SWP391\\OldCarShowroomNetWork\\DAOs\\DAOs.csproj",
       "projectName": "DAOs",
-      "projectPath": "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\DAOs\\DAOs.csproj",
-      "packagesPath": "C:\\Users\\2uang\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\DAOs\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\Học\\SWP391\\OldCarShowroomNetWork\\DAOs\\DAOs.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\Học\\SWP391\\OldCarShowroomNetWork\\DAOs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\2uang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6208,14 +6208,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\BOs\\BOs.csproj": {
-              "projectPath": "D:\\FPT_Edu\\ki8\\swp\\New folder\\OldCarShowroomNetWork\\BOs\\BOs.csproj"
+            "C:\\Users\\Administrator\\Documents\\Học\\SWP391\\OldCarShowroomNetWork\\BOs\\BOs.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Documents\\Học\\SWP391\\OldCarShowroomNetWork\\BOs\\BOs.csproj"
             }
           }
         }
