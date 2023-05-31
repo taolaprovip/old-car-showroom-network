@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3O5scT7BUE2anXH11xu+xZWbtbJTul/0ubvRV/LNv/Y=",
+  "Hash": "RdBkwCEfyhzZHZ+ySePF1Z+wjrM7mlbydLewrIDwsdA=",
   "Source": "OldCarShowroomNetworkRazorPage",
   "BasePath": "_content/OldCarShowroomNetworkRazorPage",
   "Mode": "Default",
@@ -440,6 +440,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\OldCarShowroomNetworkRazorPage\\wwwroot\\js\\showroom.js",
+      "SourceId": "OldCarShowroomNetworkRazorPage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\OldCarShowroomNetworkRazorPage\\wwwroot\\",
+      "BasePath": "_content/OldCarShowroomNetworkRazorPage",
+      "RelativePath": "js/showroom.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\showroom.js"
     },
     {
       "Identity": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\OldCarShowroomNetworkRazorPage\\wwwroot\\js\\site.js",
@@ -1868,6 +1885,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Identity": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\OldCarShowroomNetworkRazorPage\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "OldCarShowroomNetworkRazorPage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\OldCarShowroomNetworkRazorPage\\wwwroot\\",
+      "BasePath": "_content/OldCarShowroomNetworkRazorPage",
+      "RelativePath": "microsoft/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js"
     },
     {
       "Identity": "D:\\FPT_Edu\\ki8\\swp\\New folder (2)\\old-car-showroom-network\\OldCarShowroomNetWork\\OldCarShowroomNetworkRazorPage\\wwwroot\\scss\\bootstrap.scss",

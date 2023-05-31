@@ -552,3 +552,4 @@ D:\FPT_Edu\ki8\swp\New folder (2)\old-car-showroom-network\OldCarShowroomNetWork
 D:\FPT_Edu\ki8\swp\New folder (2)\old-car-showroom-network\OldCarShowroomNetWork\OldCarShowroomNetworkRazorPage\obj\Debug\net6.0\OldCarShowroomNetworkRazorPage.pdb
 D:\FPT_Edu\ki8\swp\New folder (2)\old-car-showroom-network\OldCarShowroomNetWork\OldCarShowroomNetworkRazorPage\obj\Debug\net6.0\OldCarShowroomNetworkRazorPage.genruntimeconfig.cache
 D:\FPT_Edu\ki8\swp\New folder (2)\old-car-showroom-network\OldCarShowroomNetWork\OldCarShowroomNetworkRazorPage\obj\Debug\net6.0\ref\OldCarShowroomNetworkRazorPage.dll
+D:\FPT_Edu\ki8\swp\New folder (2)\old-car-showroom-network\OldCarShowroomNetWork\OldCarShowroomNetworkRazorPage\bin\Debug\net6.0\libman.json
