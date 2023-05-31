@@ -26,17 +26,3 @@ D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\refint\
 D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.pdb
 D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.genruntimeconfig.cache
 D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\ref\BOs.dll
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\bin\Debug\net6.0\BOs.deps.json
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\bin\Debug\net6.0\BOs.runtimeconfig.json
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\bin\Debug\net6.0\BOs.dll
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\bin\Debug\net6.0\BOs.pdb
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.csproj.AssemblyReference.cache
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.AssemblyInfoInputs.cache
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.AssemblyInfo.cs
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.dll
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\refint\BOs.dll
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.pdb
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\BOs.genruntimeconfig.cache
-C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\BOs\obj\Debug\net6.0\ref\BOs.dll

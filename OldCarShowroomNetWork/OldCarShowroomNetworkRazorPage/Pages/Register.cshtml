@@ -75,61 +75,29 @@
                             ut dolores magna sit. Sea dolore sanctus sed et. Takimata takimata sanctus sed.</p>
                     </div>
                 </div>
-
                 <div class="col-lg-6">
                     <div class="bg-primary h-100 d-flex flex-column justify-content-center text-center p-5 wow zoomIn" data-wow-delay="0.6s">
                         <h1 class="text-white mb-4">Đăng ký</h1>
-                        <form method="post">
+                        <form onsubmit="return validateForm()">
                             <div class="row g-3">
-                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                                 <div class="col-12">
-                                    <input asp-for="user.Username" type="text" class="form-control border-0" placeholder="Username" maxlength="128" style="height: 55px;">
-                                    <span asp-validation-for="user.Username" class="text-danger"></span>
+                                    <input type="text" class="form-control border-0" placeholder="Username" maxlength="128" style="height: 55px;">
                                 </div>
-                                @if (@Model.Msg1 != null)
-                                {
-                                    <p style="color: black">@Model.Msg1</p>
-                                }
                                 <div class="col-12 ">
-                                    <input asp-for="user.Password" type="password" class="form-control border-0" placeholder="Mật khẩu" maxlength="16" style="height: 55px;">
-                                    <span asp-validation-for="user.Password" class="text-danger"></span>
+                                    <input type="password" class="form-control border-0" placeholder="Mật khẩu" maxlength="16" style="height: 55px;">
                                 </div>
-                                @if (@Model.Msg2 != null)
-                                {
-                                    <p style="color: black">@Model.Msg2</p>
-                                }
                                 <div class="col-12">
-                                    <input asp-for="user.Address" type="text" class="form-control border-0" placeholder="Địa chỉ" style="height: 55px;">
-                                    <span asp-validation-for="user.Address" class="text-danger"></span>
+                                    <input type="text" class="form-control border-0" placeholder="Địa chỉ" style="height: 55px;">
                                 </div>
-                                @if (@Model.Msg3 != null)
-                                {
-                                    <p style="color: black">@Model.Msg3</p>
-                                }
                                 <div class="col-12">
-                                    <input asp-for="user.Email" type="email" class="form-control border-0" placeholder="Email" style="height: 55px;">
-                                    <span asp-validation-for="user.Email" class="text-danger"></span>
+                                    <input type="email" class="form-control border-0" placeholder="Email" style="height: 55px;">
                                 </div>
-                                @if (@Model.Msg4 != null)
-                                {
-                                    <p style="color: black">@Model.Msg4</p>
-                                }
                                 <div class="col-12">
-                                    <input asp-for="user.Phone" type="tel" class="form-control border-0" placeholder="Số điện thoại" style="height: 55px;">
-                                    <span asp-validation-for="user.Phone" class="text-danger"></span>
+                                    <input type="tel" class="form-control border-0" placeholder="Số điện thoại" style="height: 55px;">
                                 </div>
-                                @if (@Model.Msg5 != null)
-                                {
-                                    <p style="color: black">@Model.Msg5</p>
-                                }
                                 <div class="col-12">
-                                    <input asp-for="user.FullName" type="text" class="form-control border-0" placeholder="Họ và tên đầy đủ" style="height: 55px;">
-                                    <span asp-validation-for="user.FullName" class="text-danger"></span>
+                                    <input type="text" class="form-control border-0" placeholder="Họ và tên đầy đủ" style="height: 55px;">
                                 </div>
-                                @if (@Model.Msg6 != null)
-                                {
-                                    <p style="color: black">@Model.Msg6</p>
-                                }
                                 <div class="col-12">
                                     <button class="btn btn-secondary w-100 py-3" type="submit">Đăng ký</button>
                                 </div>
