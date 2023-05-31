@@ -13,3 +13,18 @@ D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\DAOs.d
 D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\refint\DAOs.dll
 D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\DAOs.pdb
 D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\ref\DAOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\bin\Debug\net6.0\DAOs.deps.json
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\bin\Debug\net6.0\DAOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\bin\Debug\net6.0\DAOs.pdb
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\bin\Debug\net6.0\BOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\bin\Debug\net6.0\BOs.pdb
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\DAOs.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\DAOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\DAOs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\DAOs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\DAOs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\DAOs.csproj.CopyComplete
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\DAOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\refint\DAOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\DAOs.pdb
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\DAOs\obj\Debug\net6.0\ref\DAOs.dll

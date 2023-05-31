@@ -15,3 +15,22 @@ D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs
 D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\refint\REPOs.dll
 D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.pdb
 D:\FPT_Edu\ki8\swp\New folder\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\ref\REPOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\REPOs.deps.json
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\REPOs.runtimeconfig.json
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\REPOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\REPOs.pdb
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\BOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\DAOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\DAOs.pdb
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\bin\Debug\net6.0\BOs.pdb
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.csproj.CopyComplete
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\refint\REPOs.dll
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.pdb
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\REPOs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Học\SWP391\OldCarShowroomNetWork\REPOs\obj\Debug\net6.0\ref\REPOs.dll
